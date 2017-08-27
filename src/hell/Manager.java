@@ -12,6 +12,6 @@ public class Manager extends employee implements Cloneable{
     public void fuck(){
         Manager man=new Manager("joy",2000);
 
-
+//#1111111
     }
 }
